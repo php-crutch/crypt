@@ -1,5 +1,5 @@
 {
-  "name": "crutch/srypt",
+  "name": "crutch/crypt",
   "type": "library",
   "description": "Crypt interface",
   "license": ["MIT"],
